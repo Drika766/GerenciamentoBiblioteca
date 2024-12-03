@@ -1,0 +1,14 @@
+C:\BIBLIOTECA\gerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\BIBLIOTECA\gerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.AssemblyInfoInputs.cache
+C:\BIBLIOTECA\gerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.AssemblyInfo.cs
+C:\BIBLIOTECA\gerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.csproj.CoreCompileInputs.cache
+C:\BIBLIOTECA\gerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.exe
+C:\BIBLIOTECA\gerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.deps.json
+C:\BIBLIOTECA\gerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.runtimeconfig.json
+C:\BIBLIOTECA\gerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.dll
+C:\BIBLIOTECA\gerenciamentoBiblioteca\bin\Debug\net6.0\GerenciamentoBiblioteca.pdb
+C:\BIBLIOTECA\gerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.dll
+C:\BIBLIOTECA\gerenciamentoBiblioteca\obj\Debug\net6.0\refint\GerenciamentoBiblioteca.dll
+C:\BIBLIOTECA\gerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.pdb
+C:\BIBLIOTECA\gerenciamentoBiblioteca\obj\Debug\net6.0\GerenciamentoBiblioteca.genruntimeconfig.cache
+C:\BIBLIOTECA\gerenciamentoBiblioteca\obj\Debug\net6.0\ref\GerenciamentoBiblioteca.dll
