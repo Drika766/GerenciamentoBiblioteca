@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BIBLIOTECA\\gerenciamentoBiblioteca\\GerenciamentoBiblioteca.csproj": {}
+    "C:\\BIBLIOTECA\\GerenciamentoBiblioteca\\GerenciamentoBiblioteca.csproj": {}
   },
   "projects": {
-    "C:\\BIBLIOTECA\\gerenciamentoBiblioteca\\GerenciamentoBiblioteca.csproj": {
+    "C:\\BIBLIOTECA\\GerenciamentoBiblioteca\\GerenciamentoBiblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BIBLIOTECA\\gerenciamentoBiblioteca\\GerenciamentoBiblioteca.csproj",
+        "projectUniqueName": "C:\\BIBLIOTECA\\GerenciamentoBiblioteca\\GerenciamentoBiblioteca.csproj",
         "projectName": "GerenciamentoBiblioteca",
-        "projectPath": "C:\\BIBLIOTECA\\gerenciamentoBiblioteca\\GerenciamentoBiblioteca.csproj",
+        "projectPath": "C:\\BIBLIOTECA\\GerenciamentoBiblioteca\\GerenciamentoBiblioteca.csproj",
         "packagesPath": "C:\\Users\\adfm\\.nuget\\packages\\",
-        "outputPath": "C:\\BIBLIOTECA\\gerenciamentoBiblioteca\\obj\\",
+        "outputPath": "C:\\BIBLIOTECA\\GerenciamentoBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

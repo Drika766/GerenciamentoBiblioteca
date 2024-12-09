@@ -1,11 +1,11 @@
 using System;
-using System.Collections.Generic;  // Adicione esta linha para usar List<T>
+using System.Collections.Generic; 
 
 namespace GerenciamentoBiblioteca
 {
     public class Biblioteca
     {
-        private List<ItemBiblioteca> itens = new List<ItemBiblioteca>();  // Lista para armazenar os itens
+        private List<ItemBiblioteca> itens = new List<ItemBiblioteca>();  
 
         public void AdicionarItem(ItemBiblioteca item)
         {

@@ -8,7 +8,7 @@ class Program
 
     static void Main()
     {
-        // Menu interativo
+        // Menu do sistema de Gerenciamento de Biblioteca
         while (true)
         {
             Console.WriteLine("\nMenu:");
